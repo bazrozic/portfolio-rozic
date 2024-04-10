@@ -691,7 +691,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:75%;
+    width:95%;
     border-radius: 10px;
     background: #c70039;
 }
