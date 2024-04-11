@@ -691,7 +691,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:95%;
+    width:55%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -705,7 +705,7 @@ body{
     font-family: poppins;
     justify-content: center;
     transition: all .4s ease;
-    width:65%;
+    width:45%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -718,7 +718,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:55%;
+    width:40%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -730,7 +730,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:75%;
+    width:45%;
     border-radius: 10px;
     background: #c70039;
     transition: all .4s ease;
@@ -744,7 +744,7 @@ body{
     align-items: center;
     justify-content: center;
     transition: all .4s ease;
-    width:70%;
+    width:50%;
     border-radius: 10px;
     background: #c70039;
 }
@@ -756,7 +756,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width:80%;
+    width:40%;
     border-radius: 10px;
     transition: all .4s ease;
     background: #c70039;
